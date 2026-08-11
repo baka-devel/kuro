@@ -9,7 +9,6 @@
 - **Group-based Organization:** Categorize tasks into sub-groups seamlessly using `--group` / `-g`.
 - **Fast Lookup:** Powered by Go's custom map structures for $O(1)$ group-level memory operations.
 - **Clean JSON Persistence:** Human-readable data storage located directly in your terminal workspace.
-- **Zero Global State:** Built with modern, idiomatic Cobra patterns to maintain thread safety and testability.
 
 ---
 
